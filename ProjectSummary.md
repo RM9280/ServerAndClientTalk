@@ -17,8 +17,8 @@ Secure login system
 
 JavaFX scenes for:
 
-Login
-Password management
-Placing orders
-Profile list
+Login,
+Password management,
+Placing orders,
+Profile list,
 Settings
